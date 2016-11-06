@@ -1,0 +1,2 @@
+InitialState=Robot-location(o21);Machine(o1,1);Machine(o10,3); Machine(o27,2);Petition(o6,1); Petition(o13,3);Petition(o18,2);
+GoalState=Robot-location(o21);Served(o6);Served(o13);Served(o18);
